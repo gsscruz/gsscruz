@@ -31,18 +31,10 @@ Coming from a finance background into the tech world 💻 🖖
 </p>
 
 
-<!-- ### Socials -->
 
-<p align="left"> <a href="https://www.github.com/gsscruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/gsscruz">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsscruz&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gsscruz's GitHub stats" />
+<a href="https://github.com/gsscruz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gsscruz&show_icons=true" />
 </a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/gsscruz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsscruz&layout=compact" />
+</a>
