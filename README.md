@@ -7,7 +7,7 @@ Aspiring Front-end developer
 Coming from a finance background into the tech world 💻 🖖
 
 * 🌍  I'm based in Vancouver, BC
-* 🧠  I'm learning React
+* 🧠  Currently learning React
 * ⚡  On a never ending quest of memorizing all Constantine's lines
 
 ### Skills
